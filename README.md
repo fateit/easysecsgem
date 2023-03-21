@@ -28,6 +28,13 @@ Corresponds to the version of secs4net
   </tr>
 </table>
 
+# dependence
+Secs4Net      2.1.1
+
+Secs4Net.Sml  2.1.1
+
+Secs4Net.Json 2.1.1
+
 # example c#
 
 <code>
