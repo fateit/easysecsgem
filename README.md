@@ -37,7 +37,7 @@ Secs4Net.Json 2.1.1
 
 # example c#
 
-<code>
+<pre><code>
 namespace EasySecsGemTest
 {
     public partial class Form1 : Form,IHsmsConnStateHandler, IHsmsMessageProcess, ILogMessage
@@ -113,4 +113,4 @@ namespace EasySecsGemTest
 
     }
 }
-</code>
+</code></pre>
